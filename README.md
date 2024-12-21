@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and visualization
 - 🌱 I’m currently learning tableau and learned python and its visualization libraries, powerBI, SQL,R
 - 💞️ I’m looking to collaborate on projects related to data analytics and visualization  
-- 📫 How to reach me ...
+- 📫 How to reach me dakshkaushik052@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I am in this field because i love graph and future pridiction
 
